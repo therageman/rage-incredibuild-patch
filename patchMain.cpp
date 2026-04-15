@@ -1,6 +1,4 @@
-// This is probably way more complicated then it needs to be.
 #include "utils.h"
-
 
 int main(int argc, char* argv[]) {
     HWND hWnd = GetConsoleWindow();
